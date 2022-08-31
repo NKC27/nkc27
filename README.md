@@ -17,7 +17,7 @@
 * NodeJS.
 * Object-Oriented Programming.
 * ExpressJS.
-* MySQL, MongoDB, NoSQL.
+* MySQL, MongoDB, NoSQL, GraphQL.
 * Object-Relational Mapping.
 * Model-View-Controller (MVC).
 * Progressive Web Applications (PWA).

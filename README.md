@@ -25,6 +25,7 @@
 
 - Please take a look at my repositories for projects I have coded with the above skills list.
 
-- 📫 How to reach me: For contact please see below, Thank you.
+- 📫 How to reach me:
 
-If you would like to contact me please email me at: n.clarke27@outlook.com
+If you would like to contact me please email me at: n.clarke27@outlook.com or n.clarke2785@gmail.com
+Thank you. 😊 

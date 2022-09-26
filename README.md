@@ -1,6 +1,6 @@
 ## ✨ Hi There 👋 😁 👨🏽‍💻 ✨
 
-![cover](https://user-images.githubusercontent.com/93439579/187668513-4700b669-a690-4188-94ab-3856ee4ac121.png =250x250)
+![cover](https://user-images.githubusercontent.com/93439579/187668513-4700b669-a690-4188-94ab-3856ee4ac121.png)
 
 
 ✨ My name is Nick and welcome to my GitHub Profile. ✨

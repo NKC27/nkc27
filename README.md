@@ -1,6 +1,6 @@
 # Nick Clarke
 
-Learning Design Developer at Domestic & General, based in Oxfordshire and working remotely.
+Learning Design Developer, based in Oxfordshire and working remotely.
 
 I build web-based digital products end to end, from the data model through to the interface. Day to day that means interactive learning products for a large UK service business, where I write custom HTML, CSS and JavaScript to push authoring tools past what they do out of the box. Outside of work I build full-stack applications with Next.js, React and Node, usually with payments, auth or real-time behaviour somewhere in the middle of them.
 
